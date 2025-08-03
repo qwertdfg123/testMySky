@@ -1,6 +1,6 @@
 package main
 
 func check() int {
-	return 1
+	return 12
 
 }
