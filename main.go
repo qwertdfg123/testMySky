@@ -14,6 +14,8 @@ func main() {
 	fmt.Println(s1)
 	var s2 []int = make([]int, 0)
 	fmt.Println(s2)
+	var s3 []int = make([]int, 0)
+	fmt.Println(s3)
 
 }
 
