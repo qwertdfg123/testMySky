@@ -7,3 +7,6 @@ func check() int {
 func genzong() int {
 	return 123
 }
+func ze() int {
+	return 121212
+}
