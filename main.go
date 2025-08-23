@@ -12,6 +12,8 @@ var s = "fuck man"
 func main() {
 	var s1 []int = make([]int, 0)
 	fmt.Println(s1)
+	var s2 []int = make([]int, 0)
+	fmt.Println(s2)
 
 }
 
